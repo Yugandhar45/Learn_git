@@ -6,4 +6,5 @@ git add . to add the all files
 git commit -m "message to display on each commit"
 git status ---- to check the tracked files and the untracked/ modified files
 git branch ---- to check the branch 
-git log --- to check the no of commits with who commited and when commited
+git log --- to check the no of commits with who commited and when commited.
+git push origin master --- "origin is the short cut name for the url name" and "master is the branch name"
